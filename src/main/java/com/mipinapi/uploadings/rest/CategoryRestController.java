@@ -1,7 +1,6 @@
 package com.mipinapi.uploadings.rest;
 
 import com.mipinapi.uploadings.dto.CategoryDTO;
-import com.mipinapi.uploadings.model.Category;
 import com.mipinapi.uploadings.service.CategoryService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
