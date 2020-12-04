@@ -1,7 +1,6 @@
-package com.mipinapi.uploadings.documents.excel;
+package com.mipinapi.uploadings.service.documents.excel;
 
 import com.mipinapi.uploadings.dto.CategoryDTO;
-import com.mipinapi.uploadings.model.Category;
 import com.mipinapi.uploadings.service.CategoryService;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellStyle;

@@ -1,7 +1,6 @@
-package com.mipinapi.uploadings.rest.excel;
+package com.mipinapi.uploadings.rest;
 
-import com.mipinapi.uploadings.documents.excel.ExcelCategoryService;
-import org.springframework.stereotype.Controller;
+import com.mipinapi.uploadings.service.documents.excel.ExcelCategoryService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
